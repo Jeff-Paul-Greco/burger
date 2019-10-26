@@ -1,0 +1,12 @@
+body {
+    background: lightseagreen;
+    font-family: cursive;
+}
+
+h1 {
+    font-weight: bolder;
+}
+
+.heading {
+    margin-top: 8%;
+}
